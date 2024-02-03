@@ -36,14 +36,14 @@ Discount Express
   <p align="center">
     A quintessential app for savvy shoppers seeking the ultimate deals and discounts across a vast array of online stores. 
     <br />
-    <a href="https://github.com/seanzhang328/DayTView"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/seanzhang328/DiscountExpress"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/seanzhang328/DayTView">View Demo</a>
+    <a href="https://github.com/seanzhang328/DiscountExpress">View Demo</a>
     ·
-    <a href="https://github.com/seanzhang328/DayTView/issues">Report Bug</a>
+    <a href="https://github.com/seanzhang328/DiscountExpress/issues">Report Bug</a>
     ·
-    <a href="https://github.com/seanzhang328/DayTView/issues">Request Feature</a>
+    <a href="https://github.com/seanzhang328/DiscountExpress/issues">Request Feature</a>
   </p>
 </div>
 
