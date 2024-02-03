@@ -2,9 +2,9 @@
 
 The DiscountExpress app is built as a Commercial app. This SERVICE is provided by DiscountExpress and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use DiscountExpress Service.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that DiscountExpress collect is used for providing and improving the Service. DiscountExpress will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use DiscountExpress Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that DiscountExpress collect is used for providing and improving the Service. DiscountExpress will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at DiscountExpress unless otherwise defined in this Privacy Policy.
 
@@ -14,7 +14,7 @@ For a better experience, while using our Service, DiscountExpress may require yo
 
 **Log Data**
 
-DiscountExpress wants to inform you that whenever you use my Service, in a case of an error in the app DiscountExpress collects data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+DiscountExpress wants to inform you that whenever you use DiscountExpress Service, in a case of an error in the app DiscountExpress collects data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing DiscountExpress Service, the time and date of your use of the Service, and other statistics.
 
 **Cookies**
 
