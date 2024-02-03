@@ -75,13 +75,12 @@ Discount Express
 ## About The Project
 
 <div style="display: flex; justify-content: center;">
-  <img src="images/ScreenSnap-dark.png" width="300" height="600" alt="DayTView Screen Snap dark">
-  <img src="images/ScreenSnap-white.png" width="300" height="600" alt="DayTView Screen Snap White">
+  <img src="images/ScreenSnap.png" width="300" height="600" alt="Discount Screen Snap">
 </div>
 
 With DiscountExpress at your fingertips, you're always in the know about the latest and greatest offers, making every shopping experience rewarding and efficient.
 
-### Why DayTView?
+### Why DiscountExpress?
 
 - **Exclusive Deals Daily:** Dive into a sea of daily deals curated just for you, from top-rated electronics to fashionable attire, beauty essentials, and beyond.
 - **Effortless Browsing:** Our sleek, user-friendly interface makes finding and exploring deals a breeze. 
